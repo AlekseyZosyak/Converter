@@ -9,16 +9,16 @@
     top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
-
-    
+   
     border: 1px solid black;
-
     padding: 40px;
 }
 
 .input {
     margin-top: 20px;
+    
     width: 70px;
+
 }
 
 span {
